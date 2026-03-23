@@ -1,0 +1,1 @@
+# Funções para operações aritméticas
